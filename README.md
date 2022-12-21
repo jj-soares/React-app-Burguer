@@ -17,18 +17,18 @@
 
 
    
- # On
+ ## On 
      
    <p>This project was like a conclusion to the React classes of the Dev Club course!!</p>
    
    
    
- # Roadmap 
+ ## Roadmap 
    
    <p>This project does not only have the Front-end part, it is a Full-Stack project, where I learned how to create an API, with Node.js, and the styling on account of React, with Styled components, React Router dom, and some React Hooks!!</p>
    
    
- # Technologies
+ ## Technologies
    
    <h3 align="center"> Technologies used in the project 🙃 </h3>
    
@@ -44,7 +44,7 @@
 <br>
 <br>
 
-# Running the project
+## Running the project
 
 ```bash
 # Clone Repository
@@ -63,7 +63,7 @@ $ git clone https://github.com/jj-soares/API-React-burguer/tree/master
 Go to http://localhost:3000/ to see the result.
 
    
-#  Photos
+## Photos
    <div align='center' >
    <img src="./public/readme-assets/Img1.JPG" width='30%' >
     
@@ -74,5 +74,12 @@ Go to http://localhost:3000/ to see the result.
    <img src="./public/readme-assets/Img3.JPG" width='30%'  >
    </div>
    
-# Author
+## Author
    <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
+
+## License 
+
+This project is under the [MIT license](./LICENSE).
+
+
+   
