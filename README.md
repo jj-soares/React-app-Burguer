@@ -48,7 +48,7 @@
 
 ```bash
 # Clone Repository
-$ git clone
+$ git clone https://github.com/jj-soares/React-app-Burguer
 
 # Install Dependencies
 $ yarn install or npm install
@@ -57,8 +57,7 @@ $ yarn install or npm install
 $ yarn start or npm start 
 
 # Don't forget to clone the API
-...
-
+$ git clone https://github.com/jj-soares/API-React-burguer/tree/master
 
 ```
 Go to http://localhost:3000/ to see the result.
