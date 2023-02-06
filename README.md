@@ -6,6 +6,16 @@
   😉 React project with improvements and updates!
 </h4>
 
+
+## Photo 🎴
+   <div align='center' >
+   <img src="./src/assets/Burguer.gif"  >
+ 
+   </div>
+   
+
+
+
 <p align="center">   
    <a href="#on">On</a> .
    <a href="#roadmap">Roadmap</a> .
@@ -17,18 +27,22 @@
 
 
    
- ## On 
+ ## On ✔
      
    <p>This project was like a conclusion to the React classes of the Dev Club course!!</p>
    
    
    
- ## Roadmap 
+ ## Roadmap  🗺
+   
    
    <p>This project does not only have the Front-end part, it is a Full-Stack project, where I learned how to create an API, with Node.js, and the styling on account of React, with Styled components, React Router dom, and some React Hooks!!</p>
    
    
- ## Technologies
+ ## Technologies 🚀
+
+ <br>
+ <br>
    
    <h3 align="center"> Technologies used in the project 🙃 </h3>
    
@@ -62,18 +76,6 @@ $ git clone https://github.com/jj-soares/API-React-burguer/tree/master
 ```
 Go to http://localhost:3000/ to see the result.
 
-   
-## Photos
-   <div align='center' >
-   <img src="./public/readme-assets/Img1.JPG" width='30%' >
-    
-   <img src="./public/readme-assets/img2.JPG" width= '30%' >
-    
-   <img src="./public/readme-assets/print1 (1).gif" width= '50%' >
-   
-   <img src="./public/readme-assets/Img3.JPG" width='30%'  >
-   </div>
-   
 ## Author
    <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
 
